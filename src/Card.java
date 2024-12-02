@@ -2,9 +2,6 @@ package deckOfCards;
 
 /** This class represents a playing card that would be included in 
  * a standard deck of 52 cards.  
- * 
- * @author Fawzi Emad (C)2023, University of Maryland.
- *
  */
 public class Card {
 	
